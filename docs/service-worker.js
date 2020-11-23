@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.1a40d01ae69c802a4c666334ba7efc0f.js"
+  "/precache-manifest.95817f23b9520271b1edfccdd1245e62.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "lukasl-dev.github.io"});
